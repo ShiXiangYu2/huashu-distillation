@@ -1,0 +1,1144 @@
+{
+  "schema_version": "0.1",
+  "generated_at": "2026-07-09T11:15:54",
+  "source_count": 126,
+  "chunk_count": 157,
+  "max_chars": 6000,
+  "overlap_chars": 500,
+  "sources": [
+    {
+      "source_id": "a3e67a78a435a27fd3da982d88b32cf5",
+      "source_path": "【花叔v】—10年互联网大厂裸辞，做up主两年，现在怎么样了？说说真心话—【2025-03-24】-中文.txt",
+      "source_ref": "【花叔v】—10年互联网大厂裸辞，做up主两年，现在怎么样了？说说真心话—【2025-03-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—10年互联网大厂裸辞，做up主两年，现在怎么样了？说说真心话—【2025-03-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6201,
+      "content_sha256": "7e2237c06c1256d8c2fc9d887fa06126208dfae3c660e783a3850feb702f7e01"
+    },
+    {
+      "source_id": "5968d9eaab91e9bd97d000204e9b6c79",
+      "source_path": "【花叔v】—2024年ChatGPT的王炸更新！超级个体的时代真的来了。一键雇佣300万员工组建超级团队｜AI进化论-花生—【2024-01-27】-中文.txt",
+      "source_ref": "【花叔v】—2024年ChatGPT的王炸更新！超级个体的时代真的来了。一键雇佣300万员工组建超级团队｜AI进化论-花生—【2024-01-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—2024年ChatGPT的王炸更新！超级个体的时代真的来了。一键雇佣300万员工组建超级团队｜AI进化论-花生—【2024-01-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1068,
+      "content_sha256": "e3517b0cc728802b23b53d98d40e793cf3cb068d998f86662105ee411c85f1dd"
+    },
+    {
+      "source_id": "b7781a4707eeecce8b301a1a84bec699",
+      "source_path": "【花叔v】—30分钟用TRAE SOLO做了个iOS App，从Web到原生—【2025-11-14】-中文.txt",
+      "source_ref": "【花叔v】—30分钟用TRAE SOLO做了个iOS App，从Web到原生—【2025-11-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—30分钟用TRAE SOLO做了个iOS App，从Web到原生—【2025-11-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3940,
+      "content_sha256": "581326e551e7bd0c94137434053826de17c263591e022a3fb337df3a60bea96b"
+    },
+    {
+      "source_id": "4b6bee0ab158d192deaa0f4b4d8d9d49",
+      "source_path": "【花叔v】—3分钟搭了个AI客服，现在用户问题不用我回了—【2025-11-12】-中文.txt",
+      "source_ref": "【花叔v】—3分钟搭了个AI客服，现在用户问题不用我回了—【2025-11-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—3分钟搭了个AI客服，现在用户问题不用我回了—【2025-11-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1769,
+      "content_sha256": "b2b7091e02c02a49648e7cd5a17b925dbabfba4805cad84b028938e050725cd6"
+    },
+    {
+      "source_id": "6088cf1e91bff431a5a61cead8a1b505",
+      "source_path": "【花叔v】—AI基础课01：ChatGPT Prompt Engineering实战，中文提示工程教学教程，从入门到精通—【2023-04-09】-中文.txt",
+      "source_ref": "【花叔v】—AI基础课01：ChatGPT Prompt Engineering实战，中文提示工程教学教程，从入门到精通—【2023-04-09】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—AI基础课01：ChatGPT Prompt Engineering实战，中文提示工程教学教程，从入门到精通—【2023-04-09】-中文.txt",
+      "suffix": ".txt",
+      "chars": 14078,
+      "content_sha256": "5b0ed2ded1e76b0fcdf0119ccb7961774a78e81accce235c51c18cd093528505"
+    },
+    {
+      "source_id": "ec11fbae440baf316091278690f4cba6",
+      "source_path": "【花叔v】—AI基础课02：28分钟给你讲清楚ChatGPT是怎么被训练出来的—【2023-06-26】-中文.txt",
+      "source_ref": "【花叔v】—AI基础课02：28分钟给你讲清楚ChatGPT是怎么被训练出来的—【2023-06-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—AI基础课02：28分钟给你讲清楚ChatGPT是怎么被训练出来的—【2023-06-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7193,
+      "content_sha256": "72aa2096ac604a5ce1f4a03f16fbd79d94a35496f936e81aaeb8a9515bd208db"
+    },
+    {
+      "source_id": "36ff04c90fd2012f14a6bba5d9459549",
+      "source_path": "【花叔v】—AI基础课03：人与AI思维模式的差异—【2023-06-29】-中文.txt",
+      "source_ref": "【花叔v】—AI基础课03：人与AI思维模式的差异—【2023-06-29】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—AI基础课03：人与AI思维模式的差异—【2023-06-29】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4885,
+      "content_sha256": "f68e6869168586eaf415e668bc675df6c4dc26a35be7abe7678e540ce90b913f"
+    },
+    {
+      "source_id": "ef4817a5e713abeaf631a7f651215bac",
+      "source_path": "【花叔v】—AI智能体耳机真的有用吗？三大场景佩戴实测！—【2025-04-20】-中文.txt",
+      "source_ref": "【花叔v】—AI智能体耳机真的有用吗？三大场景佩戴实测！—【2025-04-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—AI智能体耳机真的有用吗？三大场景佩戴实测！—【2025-04-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2985,
+      "content_sha256": "7938f33060d36916c4ca9b4695b6ff1a932648005db9e8654ac904b14a540240"
+    },
+    {
+      "source_id": "ebd74f339b5d208be93ee45bfe137f35",
+      "source_path": "【花叔v】—ChatGPT-4o数据分析能力大升级：可视化+交互式！打工人不需要学Excel了｜AI进化论-花生—【2024-05-23】-中文.txt",
+      "source_ref": "【花叔v】—ChatGPT-4o数据分析能力大升级：可视化+交互式！打工人不需要学Excel了｜AI进化论-花生—【2024-05-23】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—ChatGPT-4o数据分析能力大升级：可视化+交互式！打工人不需要学Excel了｜AI进化论-花生—【2024-05-23】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3061,
+      "content_sha256": "8b315113690b2bf271af42a1d1644262687a7e27f4c2644dd6d6e3c0b52c5f5b"
+    },
+    {
+      "source_id": "789520ee40dcaddef99fa61c56615d1d",
+      "source_path": "【花叔v】—ChatGPT-4o：最新四种免费白嫖方式推荐，可国内镜像直连—【2024-06-16】-中文.txt",
+      "source_ref": "【花叔v】—ChatGPT-4o：最新四种免费白嫖方式推荐，可国内镜像直连—【2024-06-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—ChatGPT-4o：最新四种免费白嫖方式推荐，可国内镜像直连—【2024-06-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3059,
+      "content_sha256": "ed72f9da2ef91c45409c12052fee598f5c9f1a84ba5443252a1f5fead0dfed82"
+    },
+    {
+      "source_id": "071c534d75355adaf99cd4357c156f73",
+      "source_path": "【花叔v】—ChatGPT文生图能力使用技巧！DALLE3比MidJourney强在哪里？—【2023-10-15】-中文.txt",
+      "source_ref": "【花叔v】—ChatGPT文生图能力使用技巧！DALLE3比MidJourney强在哪里？—【2023-10-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—ChatGPT文生图能力使用技巧！DALLE3比MidJourney强在哪里？—【2023-10-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2930,
+      "content_sha256": "32a2adf0974a2c2c6b9ab0da0bb9f7328ab4a89a19afe769f580719d07c5902e"
+    },
+    {
+      "source_id": "bc16b4c9fbe3cf15c04f165292f869ee",
+      "source_path": "【花叔v】—ChatGPT最全教程！逼自己一把，30分钟学完28个ChatGPT使用技巧，带你从入门到精通｜GPT-4｜GPT-4o｜AI进化论-花生—【2023-08-21】-中文.txt",
+      "source_ref": "【花叔v】—ChatGPT最全教程！逼自己一把，30分钟学完28个ChatGPT使用技巧，带你从入门到精通｜GPT-4｜GPT-4o｜AI进化论-花生—【2023-08-21】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—ChatGPT最全教程！逼自己一把，30分钟学完28个ChatGPT使用技巧，带你从入门到精通｜GPT-4｜GPT-4o｜AI进化论-花生—【2023-08-21】-中文.txt",
+      "suffix": ".txt",
+      "chars": 9367,
+      "content_sha256": "a08e89ec53c48a4bfaed53287c9cdcb58470394d1b297d81a03a038bfe54a8af"
+    },
+    {
+      "source_id": "5abae9b40795d47745a7f4ecb678ec8d",
+      "source_path": "【花叔v】—ChatGPT的这项新功能，OpenAI创始人也用错了，Custom Instruction「自定义指令」最强解析—【2023-07-31】-中文.txt",
+      "source_ref": "【花叔v】—ChatGPT的这项新功能，OpenAI创始人也用错了，Custom Instruction「自定义指令」最强解析—【2023-07-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—ChatGPT的这项新功能，OpenAI创始人也用错了，Custom Instruction「自定义指令」最强解析—【2023-07-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2874,
+      "content_sha256": "fa6221e65490fb229c39984600b9d4e1444315de9547dfbabe797b6c82b9ce71"
+    },
+    {
+      "source_id": "53f650cdfb85a09df97bb890acce3645",
+      "source_path": "【花叔v】—Claude Code源码泄露！首发解读51万行代码！—【2026-03-31】-中文.txt",
+      "source_ref": "【花叔v】—Claude Code源码泄露！首发解读51万行代码！—【2026-03-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Claude Code源码泄露！首发解读51万行代码！—【2026-03-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6480,
+      "content_sha256": "158c674ce4906379ffc9935c4896fdf2a40c58b8ad015e2d0e2310083406cc4c"
+    },
+    {
+      "source_id": "3fef98fc684eea5c1dd328937baf749d",
+      "source_path": "【花叔v】—Claude Code：最强自动化写作agent！99%的人都低估了cc的能力—【2025-10-24】-中文.txt",
+      "source_ref": "【花叔v】—Claude Code：最强自动化写作agent！99%的人都低估了cc的能力—【2025-10-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Claude Code：最强自动化写作agent！99%的人都低估了cc的能力—【2025-10-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6231,
+      "content_sha256": "ea8655eb0670857010e357ae4a9ccaca4d9481634947ee47fbcafd994b061416"
+    },
+    {
+      "source_id": "5650b1f0b756436c19c780677e5755f4",
+      "source_path": "【花叔v】—Claude Fable 5最后的绝唱！我用它 5 小时做了个桌面App，已开源！【B站AI创造公开赛】—【2026-06-11】-中文.txt",
+      "source_ref": "【花叔v】—Claude Fable 5最后的绝唱！我用它 5 小时做了个桌面App，已开源！【B站AI创造公开赛】—【2026-06-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Claude Fable 5最后的绝唱！我用它 5 小时做了个桌面App，已开源！【B站AI创造公开赛】—【2026-06-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5238,
+      "content_sha256": "b72c2210728a8cd7b33218509c957ed5e25635ee1387cb170f09e97adf544ad2"
+    },
+    {
+      "source_id": "37b2cc2116782a3e0785969e71b10e54",
+      "source_path": "【花叔v】—CodeGeeX：新手入门学AI编程神器｜项目地图、幽灵注释、代码对话、代码生成—【2024-11-22】-中文.txt",
+      "source_ref": "【花叔v】—CodeGeeX：新手入门学AI编程神器｜项目地图、幽灵注释、代码对话、代码生成—【2024-11-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—CodeGeeX：新手入门学AI编程神器｜项目地图、幽灵注释、代码对话、代码生成—【2024-11-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3490,
+      "content_sha256": "df9bbfa189c19fcfafb61efdcc376e7ac459d417dbf424efde858da95b1dbbd2"
+    },
+    {
+      "source_id": "fc5fd3c7e32953ba73455bf3d22296b3",
+      "source_path": "【花叔v】—Cursor AI隐藏技能：1小时完成专利申请，立省数万💰—【2024-12-01】-中文.txt",
+      "source_ref": "【花叔v】—Cursor AI隐藏技能：1小时完成专利申请，立省数万💰—【2024-12-01】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Cursor AI隐藏技能：1小时完成专利申请，立省数万💰—【2024-12-01】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4962,
+      "content_sha256": "051c7c2298a979f67c04be5b409ffc477a5bbd9b708b1f3ff1b16303238a5e70"
+    },
+    {
+      "source_id": "d33e0d3bf9e6bbdc32ab4540f03fc398",
+      "source_path": "【花叔v】—Cursor1.0史诗级更新！详解Bugbot、Backgroud agent、Memories等新功能，完整形态的AI Coding产品出现了。—【2025-06-05】-中文.txt",
+      "source_ref": "【花叔v】—Cursor1.0史诗级更新！详解Bugbot、Backgroud agent、Memories等新功能，完整形态的AI Coding产品出现了。—【2025-06-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Cursor1.0史诗级更新！详解Bugbot、Backgroud agent、Memories等新功能，完整形态的AI Coding产品出现了。—【2025-06-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4647,
+      "content_sha256": "419f5cedfa78a38e3c29a0b0c57abb9c85fe0057ddb1b8cfc46a66dc045c6711"
+    },
+    {
+      "source_id": "46b7d855e0f49df9af60f39d08e4416d",
+      "source_path": "【花叔v】—Cursor、WindSurf大乱斗，AI编程哪家强？—【2024-12-11】-中文.txt",
+      "source_ref": "【花叔v】—Cursor、WindSurf大乱斗，AI编程哪家强？—【2024-12-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Cursor、WindSurf大乱斗，AI编程哪家强？—【2024-12-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5800,
+      "content_sha256": "5e5784085fbb265c87829cac5480c05a7a9c853c0eb9d8840043105c400c8199"
+    },
+    {
+      "source_id": "633e59b54c55d3ad46f1e66fa634d005",
+      "source_path": "【花叔v】—Cursor十大使用技巧：免费无限量使用Cursor Pro会员指南—【2024-09-19】-中文.txt",
+      "source_ref": "【花叔v】—Cursor十大使用技巧：免费无限量使用Cursor Pro会员指南—【2024-09-19】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Cursor十大使用技巧：免费无限量使用Cursor Pro会员指南—【2024-09-19】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1867,
+      "content_sha256": "bb3e5f96001dda85dcdbc704425a9156c4cecf0a286eef038cb01acf0496ac04"
+    },
+    {
+      "source_id": "689c123d2c05b52b11862d2346448153",
+      "source_path": "【花叔v】—Cursor教程：实现自动化写文章，让AI 7_24小时为你打工｜ChatGPT｜AI进化论-花生—【2024-10-18】-中文.txt",
+      "source_ref": "【花叔v】—Cursor教程：实现自动化写文章，让AI 7_24小时为你打工｜ChatGPT｜AI进化论-花生—【2024-10-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Cursor教程：实现自动化写文章，让AI 7_24小时为你打工｜ChatGPT｜AI进化论-花生—【2024-10-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4069,
+      "content_sha256": "2f89cf2d4d76beac3973cf78d906fd8f3aa3ce302e9771381a66c814cef00a72"
+    },
+    {
+      "source_id": "991ede8faeb6fe81c91727d3a1730572",
+      "source_path": "【花叔v】—DeepSeek 19大使用技巧，从入门到精通—【2025-02-01】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek 19大使用技巧，从入门到精通—【2025-02-01】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek 19大使用技巧，从入门到精通—【2025-02-01】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7855,
+      "content_sha256": "28199c9dd6cfcb40710064134e5d1bb6c96f42468ed11597486c17e21ddb2221"
+    },
+    {
+      "source_id": "28f5ab632e49b99a19fde1f91fd4c40b",
+      "source_path": "【花叔v】—DeepSeek R1 + Amazon Nova，几分钟构建AI应用！—【2025-05-31】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek R1 + Amazon Nova，几分钟构建AI应用！—【2025-05-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek R1 + Amazon Nova，几分钟构建AI应用！—【2025-05-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3110,
+      "content_sha256": "cc9afa2678a48880b1d41f8767bd805505440ea92433e565a9896a910da8c97d"
+    },
+    {
+      "source_id": "4c8cfc6bdb708e799f9075299e93bf48",
+      "source_path": "【花叔v】—DeepSeek R1 API实战：从零开发一款AI吐槽神器—【2025-02-27】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek R1 API实战：从零开发一款AI吐槽神器—【2025-02-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek R1 API实战：从零开发一款AI吐槽神器—【2025-02-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3690,
+      "content_sha256": "0ba22b44a551d0fbc5fc47242f568c388b9e65c589aa7d8cfe0c9e97d71a1d7f"
+    },
+    {
+      "source_id": "863ae18d7c2e42cca7a0f19fc1d2ff3f",
+      "source_path": "【花叔v】—DeepSeek R1怎么用？七大真实使用场景评测—【2025-01-26】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek R1怎么用？七大真实使用场景评测—【2025-01-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek R1怎么用？七大真实使用场景评测—【2025-01-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5814,
+      "content_sha256": "bc699f142d092c35568711131beedcaca7fe7ef1dbce656a2c34202c85ca9ca6"
+    },
+    {
+      "source_id": "15e83bfc4818690b02e221efa2cfde3b",
+      "source_path": "【花叔v】—DeepSeek V4将发布！梁文锋连发3篇论文，我读完发现一个规律—【2026-01-15】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek V4将发布！梁文锋连发3篇论文，我读完发现一个规律—【2026-01-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek V4将发布！梁文锋连发3篇论文，我读完发现一个规律—【2026-01-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5482,
+      "content_sha256": "cbcd690f327a823b10904ea578e01c9ae64ef6a419b37092fbf085df772be602"
+    },
+    {
+      "source_id": "de8f7f1330a9013c1ad77b2eb291974f",
+      "source_path": "【花叔v】—DeepSeek V4是怎么训练出来的？73页PPT深入解析—【2026-04-24】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek V4是怎么训练出来的？73页PPT深入解析—【2026-04-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek V4是怎么训练出来的？73页PPT深入解析—【2026-04-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 11642,
+      "content_sha256": "a93e902d0022b16db41a675c462887bbd565453ad7a197e8882983be1b4fb19c"
+    },
+    {
+      "source_id": "538072fe9aeca7fe82b2432abff724bd",
+      "source_path": "【花叔v】—DeepSeek做游戏到底行不行？我用它复刻了一款《坦克世界》—【2025-05-19】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek做游戏到底行不行？我用它复刻了一款《坦克世界》—【2025-05-19】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek做游戏到底行不行？我用它复刻了一款《坦克世界》—【2025-05-19】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4844,
+      "content_sha256": "79372422cbc30ef602cb97df470c62e9048999074b12a0f4ee79573e70da23a2"
+    },
+    {
+      "source_id": "3e3a674fe25a80d02706b83fb97bfba9",
+      "source_path": "【花叔v】—DeepSeek史上最长宕机！新模型V4来了？—【2026-03-30】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek史上最长宕机！新模型V4来了？—【2026-03-30】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek史上最长宕机！新模型V4来了？—【2026-03-30】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5801,
+      "content_sha256": "38001dbbe3e3adafd131df10ebbbea4a5da0e25fd859cbf997ff7e1fff0e4417"
+    },
+    {
+      "source_id": "db8c2685a6fdbb9c5b03fe815baaa36e",
+      "source_path": "【花叔v】—DeepSeek太卡了？这有6种R1最强满血替代方案等你查收！—【2025-02-05】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek太卡了？这有6种R1最强满血替代方案等你查收！—【2025-02-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek太卡了？这有6种R1最强满血替代方案等你查收！—【2025-02-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4376,
+      "content_sha256": "b867621a12af0df914a5e9a2502a6c7ba2d9eba757af24f55f918b6ea8d629af"
+    },
+    {
+      "source_id": "b77c00b4c1f5f347def5853be51b6094",
+      "source_path": "【花叔v】—DeepSeek杀疯了！发布多模态模型Janus Pro，再次超越OpenAI！—【2025-01-27】-中文.txt",
+      "source_ref": "【花叔v】—DeepSeek杀疯了！发布多模态模型Janus Pro，再次超越OpenAI！—【2025-01-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—DeepSeek杀疯了！发布多模态模型Janus Pro，再次超越OpenAI！—【2025-01-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2168,
+      "content_sha256": "39fdda9e4ecb6f209b5dcadaef7794e8fa7b31b16d40818a9c8ecfd8313248f5"
+    },
+    {
+      "source_id": "315131cec5c405af4c93b03d45cdfc1b",
+      "source_path": "【花叔v】—GPT Store正式上线！9个指令词技巧，让你的GPTs更上一层楼｜AI进化论-花生—【2024-01-08】-中文.txt",
+      "source_ref": "【花叔v】—GPT Store正式上线！9个指令词技巧，让你的GPTs更上一层楼｜AI进化论-花生—【2024-01-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—GPT Store正式上线！9个指令词技巧，让你的GPTs更上一层楼｜AI进化论-花生—【2024-01-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5578,
+      "content_sha256": "ab0ce312578bdff6d853717ab8c3debd12280b4ba0100541b6d853c715401263"
+    },
+    {
+      "source_id": "156238d9bbd8c9bf2b26bc578f1a99ee",
+      "source_path": "【花叔v】—GPT-4o炸裂更新！13个案例演示语音实时对话能力｜同声传译、语言学习、学科辅导、AI会议等｜AI进化论-花生—【2024-05-13】-中文.txt",
+      "source_ref": "【花叔v】—GPT-4o炸裂更新！13个案例演示语音实时对话能力｜同声传译、语言学习、学科辅导、AI会议等｜AI进化论-花生—【2024-05-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—GPT-4o炸裂更新！13个案例演示语音实时对话能力｜同声传译、语言学习、学科辅导、AI会议等｜AI进化论-花生—【2024-05-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5123,
+      "content_sha256": "fb329ed6ad0e3caead4ee05cd6e1295e4a706c7da818912665bf68cde9989eab"
+    },
+    {
+      "source_id": "5fb066987a5f64b51b4f795081ef038c",
+      "source_path": "【花叔v】—GPT-4V识图能力怎么用？21个使用场景，帮你超越99%的人。—【2023-10-11】-中文.txt",
+      "source_ref": "【花叔v】—GPT-4V识图能力怎么用？21个使用场景，帮你超越99%的人。—【2023-10-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—GPT-4V识图能力怎么用？21个使用场景，帮你超越99%的人。—【2023-10-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7839,
+      "content_sha256": "190ecf945b2537b4fe23bad6a93347f59d8edac7e3ab021b4a67241e42d0ead1"
+    },
+    {
+      "source_id": "d462eeb58e5353b2bc86793532e3da6a",
+      "source_path": "【花叔v】—GPT4.5发布：价格暴涨30倍，OpenAI杀死预训练—【2025-02-27】-中文.txt",
+      "source_ref": "【花叔v】—GPT4.5发布：价格暴涨30倍，OpenAI杀死预训练—【2025-02-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—GPT4.5发布：价格暴涨30倍，OpenAI杀死预训练—【2025-02-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2191,
+      "content_sha256": "5e02bac738635c8b4fd8374324733318f255aaf82dedc6abc35e21bfa7be7d8d"
+    },
+    {
+      "source_id": "4b78914cb95a63390469f829b6554384",
+      "source_path": "【花叔v】—GPT4最新实操演示！ChatGPT Plus会员值得买吗？网页浏览Browsing｜代码解释器code interpreter｜定制化GPTs—【2024-04-14】-中文.txt",
+      "source_ref": "【花叔v】—GPT4最新实操演示！ChatGPT Plus会员值得买吗？网页浏览Browsing｜代码解释器code interpreter｜定制化GPTs—【2024-04-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—GPT4最新实操演示！ChatGPT Plus会员值得买吗？网页浏览Browsing｜代码解释器code interpreter｜定制化GPTs—【2024-04-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5385,
+      "content_sha256": "3edebc882b2d3b65bfe22ae488d5ac63c015d8e666cc877e92ced1dd9f823709"
+    },
+    {
+      "source_id": "1cb03edb71b40125f13bcef96e924bd4",
+      "source_path": "【花叔v】—Manus被Meta数十亿美元收购：独家完整复盘！—【2025-12-30】-中文.txt",
+      "source_ref": "【花叔v】—Manus被Meta数十亿美元收购：独家完整复盘！—【2025-12-30】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Manus被Meta数十亿美元收购：独家完整复盘！—【2025-12-30】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4534,
+      "content_sha256": "10d2bd6eb85126301609419f1534d1e6bd177b58a25cbc630a1ab100fa2ad158"
+    },
+    {
+      "source_id": "5e12d39d0473f23220ed47c4e9426068",
+      "source_path": "【花叔v】—OpenAI发布GPT-5！全网首发解读&对比评测！—【2025-08-07】-中文.txt",
+      "source_ref": "【花叔v】—OpenAI发布GPT-5！全网首发解读&对比评测！—【2025-08-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—OpenAI发布GPT-5！全网首发解读&对比评测！—【2025-08-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3322,
+      "content_sha256": "c7c7d1d394b7dc8eb2e180e3eece87b858861bfbb95583e2263a2922c31ce713"
+    },
+    {
+      "source_id": "1179287bc8027d22d285b2bca7559332",
+      "source_path": "【花叔v】—OpenAI发布会完整解读+全程双语回放｜地表最强模型GPT-4o免费发布｜AI进化论-花生—【2024-05-13】-中文.txt",
+      "source_ref": "【花叔v】—OpenAI发布会完整解读+全程双语回放｜地表最强模型GPT-4o免费发布｜AI进化论-花生—【2024-05-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—OpenAI发布会完整解读+全程双语回放｜地表最强模型GPT-4o免费发布｜AI进化论-花生—【2024-05-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6729,
+      "content_sha256": "77f7e4e0335787fa1b192ba3fda68e8f2088623f2bdecabcae95119f0cd3a404"
+    },
+    {
+      "source_id": "3f6f5838714e4ea8ef0cf7b31b233cbb",
+      "source_path": "【花叔v】—OpenAI开源了，Claude更强了！但最惊喜的是AWS的底牌—【2025-08-08】-中文.txt",
+      "source_ref": "【花叔v】—OpenAI开源了，Claude更强了！但最惊喜的是AWS的底牌—【2025-08-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—OpenAI开源了，Claude更强了！但最惊喜的是AWS的底牌—【2025-08-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2449,
+      "content_sha256": "71b8b9e7ba5083856ce9472a64072c3339c4f5386bc1aecc323dacf9eaf87ea5"
+    },
+    {
+      "source_id": "db21d8222ccbc1b9c4cc7f2c6a626a19",
+      "source_path": "【花叔v】—OpenAI新发布o3和o4-mini介绍，ChatGPT今年最强更新！—【2025-04-17】-中文.txt",
+      "source_ref": "【花叔v】—OpenAI新发布o3和o4-mini介绍，ChatGPT今年最强更新！—【2025-04-17】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—OpenAI新发布o3和o4-mini介绍，ChatGPT今年最强更新！—【2025-04-17】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5004,
+      "content_sha256": "2a0bd96600c83871f93b7012cbeb92f7842e7176dbad3e57f7a95d81f5552978"
+    },
+    {
+      "source_id": "91670f5761626bda7cacf7d7a8090ebf",
+      "source_path": "【花叔v】—OpenAI被黑客攻击，ChatGPT系统级提示词遭泄漏，我们能学到什么？—【2023-10-18】-中文.txt",
+      "source_ref": "【花叔v】—OpenAI被黑客攻击，ChatGPT系统级提示词遭泄漏，我们能学到什么？—【2023-10-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—OpenAI被黑客攻击，ChatGPT系统级提示词遭泄漏，我们能学到什么？—【2023-10-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3232,
+      "content_sha256": "6bf19a7e1c8481c0c54ec3d92757f0e6b201768ec59eae70cd6d85ec6f8aed6a"
+    },
+    {
+      "source_id": "8628bf59fb782aebe3a82da162c04d97",
+      "source_path": "【花叔v】—Sam Altman没解决的GPT-4变懒变笨问题，我给你解决了｜我给你做了个「更勤奋更聪明的GPT-4」GPT—【2024-02-07】-中文.txt",
+      "source_ref": "【花叔v】—Sam Altman没解决的GPT-4变懒变笨问题，我给你解决了｜我给你做了个「更勤奋更聪明的GPT-4」GPT—【2024-02-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—Sam Altman没解决的GPT-4变懒变笨问题，我给你解决了｜我给你做了个「更勤奋更聪明的GPT-4」GPT—【2024-02-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1767,
+      "content_sha256": "9a743a16ddc6fbe2de3ed10235de17dc40f7c898b33255f0cbfc669e23f8e10b"
+    },
+    {
+      "source_id": "9ffde9acb6c4e8f2f982b9273fcdbee0",
+      "source_path": "【花叔v】—「AI写代码神器」Cursor实操教学：用AI智能批量命名本地图片！0基础也能懂。—【2024-09-15】-中文.txt",
+      "source_ref": "【花叔v】—「AI写代码神器」Cursor实操教学：用AI智能批量命名本地图片！0基础也能懂。—【2024-09-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—「AI写代码神器」Cursor实操教学：用AI智能批量命名本地图片！0基础也能懂。—【2024-09-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 8275,
+      "content_sha256": "a85ab27c1577d37cbb00b33382c4f9b71938455d44522bd55f4f4e47f50c0b7a"
+    },
+    {
+      "source_id": "5ec6cfad71866e9b3c4030e620c8d09e",
+      "source_path": "【花叔v】—【10万人学过】Cursor、Windsur终极评测，谁是最强AI编程工具？—【2025-01-16】-中文.txt",
+      "source_ref": "【花叔v】—【10万人学过】Cursor、Windsur终极评测，谁是最强AI编程工具？—【2025-01-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【10万人学过】Cursor、Windsur终极评测，谁是最强AI编程工具？—【2025-01-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5047,
+      "content_sha256": "7133fc5f585e7901e7842e050aa44507863434464816f077fbe0cb27aca17f83"
+    },
+    {
+      "source_id": "0e580f232dc35c509ed4c0108f7e25a3",
+      "source_path": "【花叔v】—【99%的人不知道】Cursor + Claude 3.7的绝技：从原型到产品，两步完成app开发！—【2025-03-02】-中文.txt",
+      "source_ref": "【花叔v】—【99%的人不知道】Cursor + Claude 3.7的绝技：从原型到产品，两步完成app开发！—【2025-03-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【99%的人不知道】Cursor + Claude 3.7的绝技：从原型到产品，两步完成app开发！—【2025-03-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3947,
+      "content_sha256": "c8b82df198700c2254f17e094088d774b98227330a8ed28200911b8417693cfa"
+    },
+    {
+      "source_id": "ac9925c4d788826e5b95291ab307aa58",
+      "source_path": "【花叔v】—【AI深度思考神器？】7个实测场景告诉你夸克到底有多强！—【2025-04-30】-中文.txt",
+      "source_ref": "【花叔v】—【AI深度思考神器？】7个实测场景告诉你夸克到底有多强！—【2025-04-30】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【AI深度思考神器？】7个实测场景告诉你夸克到底有多强！—【2025-04-30】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2691,
+      "content_sha256": "d6c9a579d2d728a89ce0fc0e42213cf415bb0224a684c8c72ee6164e39e1788e"
+    },
+    {
+      "source_id": "9ef27e1b7357e7c96ef1db8afe2c0deb",
+      "source_path": "【花叔v】—【AI神器】一句话生成高保真APP原型！Cursor + Claude 3.7 Sonnet让设计师⚠️危险了—【2025-03-04】-中文.txt",
+      "source_ref": "【花叔v】—【AI神器】一句话生成高保真APP原型！Cursor + Claude 3.7 Sonnet让设计师⚠️危险了—【2025-03-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【AI神器】一句话生成高保真APP原型！Cursor + Claude 3.7 Sonnet让设计师⚠️危险了—【2025-03-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4744,
+      "content_sha256": "731e6e32795cd7a9d367c8bd2c6e46afafa646ae8e329cf268f9b1628313b8e0"
+    },
+    {
+      "source_id": "311e4177f29ce9d99a82a256963fc31b",
+      "source_path": "【花叔v】—【OpenAI大地震】Sam Altman被解雇！微软的阴谋？AGI是新CEO？—【2023-11-18】-中文.txt",
+      "source_ref": "【花叔v】—【OpenAI大地震】Sam Altman被解雇！微软的阴谋？AGI是新CEO？—【2023-11-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【OpenAI大地震】Sam Altman被解雇！微软的阴谋？AGI是新CEO？—【2023-11-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 975,
+      "content_sha256": "ea9edb0427df71491982b8146ebea18136157b910a5d8a3f8a79bce0db4d0fec"
+    },
+    {
+      "source_id": "073d653f517325627a61c581c4cc1496",
+      "source_path": "【花叔v】—【免费】1分钟部署全栈网站！腾讯EdgeOne Pages零基础教程 + 送兑换码（免费全球CDN加速+DDOS防护）—【2025-09-24】-中文.txt",
+      "source_ref": "【花叔v】—【免费】1分钟部署全栈网站！腾讯EdgeOne Pages零基础教程 + 送兑换码（免费全球CDN加速+DDOS防护）—【2025-09-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【免费】1分钟部署全栈网站！腾讯EdgeOne Pages零基础教程 + 送兑换码（免费全球CDN加速+DDOS防护）—【2025-09-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2909,
+      "content_sha256": "35676d1a5eae87b63818120b34b83c0ecc7bb30de55cbb01bd826a09108788ac"
+    },
+    {
+      "source_id": "8fa2b01d5affc1f5d784a581e42eb0e1",
+      "source_path": "【花叔v】—【全网首发】Manus最真实测试，无加速无剪辑—【2025-03-07】-中文.txt",
+      "source_ref": "【花叔v】—【全网首发】Manus最真实测试，无加速无剪辑—【2025-03-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【全网首发】Manus最真实测试，无加速无剪辑—【2025-03-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6585,
+      "content_sha256": "f26e8800ce6d3958fc9551dab7dae3ed30e8c64b34045aaf4870748a5dae39f0"
+    },
+    {
+      "source_id": "16c62efd2ca3a211401b65928ad63384",
+      "source_path": "【花叔v】—【北大分享】AppStore付费榜第一的「小猫补光灯」是如何诞生的？从需求洞察、Cursor开发，到运营全过程—【2024-12-26】-中文.txt",
+      "source_ref": "【花叔v】—【北大分享】AppStore付费榜第一的「小猫补光灯」是如何诞生的？从需求洞察、Cursor开发，到运营全过程—【2024-12-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【北大分享】AppStore付费榜第一的「小猫补光灯」是如何诞生的？从需求洞察、Cursor开发，到运营全过程—【2024-12-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4996,
+      "content_sha256": "63fc699ccb86a48e88ee524080dfec82ed353562f72c5c7852e6035aef95c69f"
+    },
+    {
+      "source_id": "5a998ec20413d05e1af394f304240ac2",
+      "source_path": "【花叔v】—【实测+解读】Claude Opus 4.7发布！最强模型刷新—【2026-04-16】-中文.txt",
+      "source_ref": "【花叔v】—【实测+解读】Claude Opus 4.7发布！最强模型刷新—【2026-04-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【实测+解读】Claude Opus 4.7发布！最强模型刷新—【2026-04-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4852,
+      "content_sha256": "1ef3367ae049d4b3f568a3ea928ad9d2f695699ea15dc959b845067960940b74"
+    },
+    {
+      "source_id": "c0c3e71b4af901b48fb2de7343fbaf93",
+      "source_path": "【花叔v】—【实测+解读】GPT5.2发布：74%的打工人任务，被AI攻克了—【2025-12-12】-中文.txt",
+      "source_ref": "【花叔v】—【实测+解读】GPT5.2发布：74%的打工人任务，被AI攻克了—【2025-12-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【实测+解读】GPT5.2发布：74%的打工人任务，被AI攻克了—【2025-12-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5514,
+      "content_sha256": "e16ec2b187d980a278b5d02588f237f0d188e8da2cf940bed4831d03190ae517"
+    },
+    {
+      "source_id": "6aac3ccea94c86513356541425d28928",
+      "source_path": "【花叔v】—【实测】我用AI做了一个猫咪鉴定师! 零基础也能上手—【2025-01-24】-中文.txt",
+      "source_ref": "【花叔v】—【实测】我用AI做了一个猫咪鉴定师! 零基础也能上手—【2025-01-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【实测】我用AI做了一个猫咪鉴定师! 零基础也能上手—【2025-01-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2450,
+      "content_sha256": "554a1e18ecb9026a59e61c591ce70393ab190243a12758cdbc43400ed5a85dd0"
+    },
+    {
+      "source_id": "feb8f7084246d8e41184ecc1ab2addbf",
+      "source_path": "【花叔v】—【扣子教学】不写一行代码，30分钟手搓AI应用｜coze—【2024-12-18】-中文.txt",
+      "source_ref": "【花叔v】—【扣子教学】不写一行代码，30分钟手搓AI应用｜coze—【2024-12-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【扣子教学】不写一行代码，30分钟手搓AI应用｜coze—【2024-12-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5342,
+      "content_sha256": "3a0dd9ad8ed22da42979c80ae6fa43ad9655e1beec0adcb22ed4fa6979a2c42c"
+    },
+    {
+      "source_id": "fe332c1eaceecb539968e1c49832b3df",
+      "source_path": "【花叔v】—【接入DeepSeek API】Cursor进阶教程：手把手教你开发可注册登录的AI网站。—【2024-09-26】-中文.txt",
+      "source_ref": "【花叔v】—【接入DeepSeek API】Cursor进阶教程：手把手教你开发可注册登录的AI网站。—【2024-09-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【接入DeepSeek API】Cursor进阶教程：手把手教你开发可注册登录的AI网站。—【2024-09-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 9131,
+      "content_sha256": "0bb618edc2c1ff71c9c6fffd28a6e42d8943f6c2db7847e26c000dc92892c189"
+    },
+    {
+      "source_id": "9f3f15768594fbb02033877e662a2b8d",
+      "source_path": "【花叔v】—【新手必看】学习Cursor AI编程的7大建议｜能不能学｜怎么学？—【2024-12-14】-中文.txt",
+      "source_ref": "【花叔v】—【新手必看】学习Cursor AI编程的7大建议｜能不能学｜怎么学？—【2024-12-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【新手必看】学习Cursor AI编程的7大建议｜能不能学｜怎么学？—【2024-12-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4108,
+      "content_sha256": "d55d878ba6f0ed2092bee6182839c172c88afe268582567cc17888d63cfa12aa"
+    },
+    {
+      "source_id": "5c0a4c1534923d1615f33188988f39b5",
+      "source_path": "【花叔v】—【解读+实操】Claude 3.7 Sonnet + Cursor = 最佳AI编程选择—【2025-02-25】-中文.txt",
+      "source_ref": "【花叔v】—【解读+实操】Claude 3.7 Sonnet + Cursor = 最佳AI编程选择—【2025-02-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【解读+实操】Claude 3.7 Sonnet + Cursor = 最佳AI编程选择—【2025-02-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6066,
+      "content_sha256": "dcc52eea491da0cb59ec5b3f2d6dd7e24203e9e031c218b54d88d6f911697f5c"
+    },
+    {
+      "source_id": "50d29df3984936423ed921b2b55cf787",
+      "source_path": "【花叔v】—【解读+实测】DeepSeek V3.2发布！超GPT-5，对标Gemini 3.0 Pro—【2025-12-01】-中文.txt",
+      "source_ref": "【花叔v】—【解读+实测】DeepSeek V3.2发布！超GPT-5，对标Gemini 3.0 Pro—【2025-12-01】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【解读+实测】DeepSeek V3.2发布！超GPT-5，对标Gemini 3.0 Pro—【2025-12-01】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6879,
+      "content_sha256": "7fcdfa6a7f139eff22c67cf4d1452a8df61b9fb91d40d698d558b7cccace87cc"
+    },
+    {
+      "source_id": "ffcd8cba7596a94e325a6e88b9f87522",
+      "source_path": "【花叔v】—【解读+实测】马斯克发布Grok4，登顶全球最佳大模型！—【2025-07-10】-中文.txt",
+      "source_ref": "【花叔v】—【解读+实测】马斯克发布Grok4，登顶全球最佳大模型！—【2025-07-10】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【解读+实测】马斯克发布Grok4，登顶全球最佳大模型！—【2025-07-10】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4272,
+      "content_sha256": "05717df070b05906ac1dcbf9651384b39c6bba91bae205a6c8160f6ddfaebfa2"
+    },
+    {
+      "source_id": "4d973a080313f0ac39741344e637c1ec",
+      "source_path": "【花叔v】—【首发】Claude4.5发布，首款AI操作系统上线！深度解读+实测—【2025-09-29】-中文.txt",
+      "source_ref": "【花叔v】—【首发】Claude4.5发布，首款AI操作系统上线！深度解读+实测—【2025-09-29】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【首发】Claude4.5发布，首款AI操作系统上线！深度解读+实测—【2025-09-29】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4979,
+      "content_sha256": "5eab945bda6a7ff86e56bda70c248e1bf16a6962324f136123f2e65c45ace8bf"
+    },
+    {
+      "source_id": "c979dd28e890b1e27c8566a45f295390",
+      "source_path": "【花叔v】—【首发】Google发布Gemini 3：地表最强模型解读&实测！—【2025-11-18】-中文.txt",
+      "source_ref": "【花叔v】—【首发】Google发布Gemini 3：地表最强模型解读&实测！—【2025-11-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【首发】Google发布Gemini 3：地表最强模型解读&实测！—【2025-11-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5512,
+      "content_sha256": "28fbbbc53d3a8770baebf01ef86bf3d85e770115be5af03aece6ff45966e4ec3"
+    },
+    {
+      "source_id": "946505f6fcb98a452f9335ba1c21fd20",
+      "source_path": "【花叔v】—【首发】GPT-5.5实测！吊打Claude 4.7？DeepSeek紧随其后—【2026-04-24】-中文.txt",
+      "source_ref": "【花叔v】—【首发】GPT-5.5实测！吊打Claude 4.7？DeepSeek紧随其后—【2026-04-24】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—【首发】GPT-5.5实测！吊打Claude 4.7？DeepSeek紧随其后—【2026-04-24】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5581,
+      "content_sha256": "c376dd87bb8d0857b97c55dc53de1bd3bea37fd9b42a7a743eb356c2f20cf38a"
+    },
+    {
+      "source_id": "48669e61e6db5a6b6aad3f66edb91b5f",
+      "source_path": "【花叔v】—一个人，不会写代码，单枪匹马杀入AppStore分类榜TOP20，我是怎么做到的？小猫补光灯—【2024-11-11】-中文.txt",
+      "source_ref": "【花叔v】—一个人，不会写代码，单枪匹马杀入AppStore分类榜TOP20，我是怎么做到的？小猫补光灯—【2024-11-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—一个人，不会写代码，单枪匹马杀入AppStore分类榜TOP20，我是怎么做到的？小猫补光灯—【2024-11-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4702,
+      "content_sha256": "310d33031ee5105f257bc09619b25418994e03264ba552ca467270dad03e3f3e"
+    },
+    {
+      "source_id": "d1253550c1ee4747839da157d22edcff",
+      "source_path": "【花叔v】—一个策略，让ChatGPT翻译能力提升100%，超越专业译者—【2023-11-27】-中文.txt",
+      "source_ref": "【花叔v】—一个策略，让ChatGPT翻译能力提升100%，超越专业译者—【2023-11-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—一个策略，让ChatGPT翻译能力提升100%，超越专业译者—【2023-11-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4568,
+      "content_sha256": "8b0fc88158d058972eebc6119f3ff2a785baedd7b50e479f43f46ecaa8c9b265"
+    },
+    {
+      "source_id": "ca673257ba99eed7af90b4550dd252e3",
+      "source_path": "【花叔v】—一人公司不是梦！1小时开发全栈应用【含完整前后端】—【2025-07-07】-中文.txt",
+      "source_ref": "【花叔v】—一人公司不是梦！1小时开发全栈应用【含完整前后端】—【2025-07-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—一人公司不是梦！1小时开发全栈应用【含完整前后端】—【2025-07-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4852,
+      "content_sha256": "a8e2e4c207177918e15ccfada315acabacf6fb8539fca7cbb14f7c116a83e50b"
+    },
+    {
+      "source_id": "9cf7d305e08cd6eb56ec136d4945bb15",
+      "source_path": "【花叔v】—三个技巧，把微软Copilot智商提升200%。AI进化论-花生—【2023-12-11】-中文.txt",
+      "source_ref": "【花叔v】—三个技巧，把微软Copilot智商提升200%。AI进化论-花生—【2023-12-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—三个技巧，把微软Copilot智商提升200%。AI进化论-花生—【2023-12-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4389,
+      "content_sha256": "baa60bfbc10d8dac8da943d2c5494c213f8be3bd8fc09edf398696dcbcb36ce5"
+    },
+    {
+      "source_id": "26e59733301c6008dd2c022e006f4c06",
+      "source_path": "【花叔v】—不会代码也能开发鸿蒙App？手把手教学—【2025-11-07】-中文.txt",
+      "source_ref": "【花叔v】—不会代码也能开发鸿蒙App？手把手教学—【2025-11-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—不会代码也能开发鸿蒙App？手把手教学—【2025-11-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4029,
+      "content_sha256": "4c38abbb3e48dd103030d677c505356d9936cdcec8102f3943426b1b58290ea7"
+    },
+    {
+      "source_id": "103d9b313549acf52e9067782ca7cb31",
+      "source_path": "【花叔v】—不会写代码，能用AI编程吗？我用Cursor开发了9款产品！—【2024-10-26】-中文.txt",
+      "source_ref": "【花叔v】—不会写代码，能用AI编程吗？我用Cursor开发了9款产品！—【2024-10-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—不会写代码，能用AI编程吗？我用Cursor开发了9款产品！—【2024-10-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6228,
+      "content_sha256": "8f1883c88608fdad8890a09a3ea2f81196ebcca30343bf473503c6f936dd871b"
+    },
+    {
+      "source_id": "354a51453376d6486c274f34b4ec318b",
+      "source_path": "【花叔v】—不写代码,30分钟带你完成iOS APP开发全流程—【2025-03-20】-中文.txt",
+      "source_ref": "【花叔v】—不写代码,30分钟带你完成iOS APP开发全流程—【2025-03-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—不写代码,30分钟带你完成iOS APP开发全流程—【2025-03-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6011,
+      "content_sha256": "e8dc630c75049b496ff86d8714f7f2ba623d154f25914c02affa0fc6d15d7dad"
+    },
+    {
+      "source_id": "1ca4d8ee4ac184f788ab9b9da76461c0",
+      "source_path": "【花叔v】—不写代码！10分钟搭建企业知识库，图表PDF全能读懂！阿里云百炼RAG实战—【2025-12-05】-中文.txt",
+      "source_ref": "【花叔v】—不写代码！10分钟搭建企业知识库，图表PDF全能读懂！阿里云百炼RAG实战—【2025-12-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—不写代码！10分钟搭建企业知识库，图表PDF全能读懂！阿里云百炼RAG实战—【2025-12-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7295,
+      "content_sha256": "6ba4d4a3d6f9191f8bd6d731bbc0342882216571df9dd2fa9e3bdab092c2bfc4"
+    },
+    {
+      "source_id": "8085dcb04c50a3c5b7946bc3a8ac093d",
+      "source_path": "【花叔v】—中文互联网ChatGPT最全插件功能演示，Code Interpreter（代码解释器）｜ browsing（网页浏览）｜ Plugins（第三方插件）—【2023-05-02】-中文.txt",
+      "source_ref": "【花叔v】—中文互联网ChatGPT最全插件功能演示，Code Interpreter（代码解释器）｜ browsing（网页浏览）｜ Plugins（第三方插件）—【2023-05-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—中文互联网ChatGPT最全插件功能演示，Code Interpreter（代码解释器）｜ browsing（网页浏览）｜ Plugins（第三方插件）—【2023-05-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3656,
+      "content_sha256": "3e5f7ea299c56b47d9ae515bf187dd348ff42a7395a0b448a2b76104240d7314"
+    },
+    {
+      "source_id": "a696f17bcf2e726f85605777b60f3038",
+      "source_path": "【花叔v】—仅需10分钟，无代码也能做AI应用！—【2024-12-27】-中文.txt",
+      "source_ref": "【花叔v】—仅需10分钟，无代码也能做AI应用！—【2024-12-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—仅需10分钟，无代码也能做AI应用！—【2024-12-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3066,
+      "content_sha256": "0599704c5b7a927560171557183d5519f19b9a022442e2aabfbc49959d1bb716"
+    },
+    {
+      "source_id": "205fda72d22f3fafabc4b7f2b5a5a0b3",
+      "source_path": "【花叔v】—从原型到产品，用iFlow Cli两步完成app开发！免费！—【2025-09-05】-中文.txt",
+      "source_ref": "【花叔v】—从原型到产品，用iFlow Cli两步完成app开发！免费！—【2025-09-05】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—从原型到产品，用iFlow Cli两步完成app开发！免费！—【2025-09-05】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4173,
+      "content_sha256": "220b6e468ce94f98ee88dbd1adcaba084287307c6baac8631a130901a8a9430c"
+    },
+    {
+      "source_id": "e7d3e97380378f4408a51e722abef357",
+      "source_path": "【花叔v】—企业级AI落地案例大揭秘！探展2025年亚马逊云科技中国峰会—【2025-06-21】-中文.txt",
+      "source_ref": "【花叔v】—企业级AI落地案例大揭秘！探展2025年亚马逊云科技中国峰会—【2025-06-21】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—企业级AI落地案例大揭秘！探展2025年亚马逊云科技中国峰会—【2025-06-21】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1424,
+      "content_sha256": "509ebe18ebf5670c4a05dc38099c1893c02dc46775590cf9682394e799f79a61"
+    },
+    {
+      "source_id": "3bbac1b111d7a02421d473c77e7e0e6b",
+      "source_path": "【花叔v】—元宝发10亿红包，我研究出了最高效的领法—【2026-02-03】-中文.txt",
+      "source_ref": "【花叔v】—元宝发10亿红包，我研究出了最高效的领法—【2026-02-03】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—元宝发10亿红包，我研究出了最高效的领法—【2026-02-03】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2106,
+      "content_sha256": "11f312c43a903f132e9ef3fb231d834705c5c8122ffb80ac10c14246b3c1b85c"
+    },
+    {
+      "source_id": "efe59a3d1bb60c0d0e6b1c26b0d77d0d",
+      "source_path": "【花叔v】—全球首款通用AI Agent——Manus发布！3大场景实测！—【2025-03-06】-中文.txt",
+      "source_ref": "【花叔v】—全球首款通用AI Agent——Manus发布！3大场景实测！—【2025-03-06】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—全球首款通用AI Agent——Manus发布！3大场景实测！—【2025-03-06】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3323,
+      "content_sha256": "0fa73738a4a9085e118679639c04c9ee9091280282d106228922cd6fce8a3b2d"
+    },
+    {
+      "source_id": "95cf1103fc21038b69409cb33b3cac12",
+      "source_path": "【花叔v】—又来？OpenAI_叛徒_推出最强AI模型Claude3，宣传超越GPT-4和谷歌Gemini Ultra—【2024-03-04】-中文.txt",
+      "source_ref": "【花叔v】—又来？OpenAI_叛徒_推出最强AI模型Claude3，宣传超越GPT-4和谷歌Gemini Ultra—【2024-03-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—又来？OpenAI_叛徒_推出最强AI模型Claude3，宣传超越GPT-4和谷歌Gemini Ultra—【2024-03-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2807,
+      "content_sha256": "2be52f771ae3543c800b0a63ed2c9332081cdbe8f20000b8855a777131ef9e3b"
+    },
+    {
+      "source_id": "76d62de5a23cbdb9ea906a75ab45e7c3",
+      "source_path": "【花叔v】—地表最强AI写代码工具——Cursor：人人都是P8程序员—【2024-08-31】-中文.txt",
+      "source_ref": "【花叔v】—地表最强AI写代码工具——Cursor：人人都是P8程序员—【2024-08-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—地表最强AI写代码工具——Cursor：人人都是P8程序员—【2024-08-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5187,
+      "content_sha256": "c9e7590b1d873fdc3b88d53f18e3660cabf7d2c0f0c1a2fa1885ea379e4b6d2e"
+    },
+    {
+      "source_id": "329d04900e245af1fb11b944892123da",
+      "source_path": "【花叔v】—地表最强AI编程工具Cursor：人人都是iOS工程师！—【2024-10-08】-中文.txt",
+      "source_ref": "【花叔v】—地表最强AI编程工具Cursor：人人都是iOS工程师！—【2024-10-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—地表最强AI编程工具Cursor：人人都是iOS工程师！—【2024-10-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5853,
+      "content_sha256": "480df4604b7249db3f11d9f8056a7f9aefd40e8367363938e2926fa3e5e0d8cf"
+    },
+    {
+      "source_id": "c90c3447718b84b28989ccc84717563e",
+      "source_path": "【花叔v】—学Cursor，掌握AI编程的唯一诀窍：先做出来，发布出来！—【2024-11-03】-中文.txt",
+      "source_ref": "【花叔v】—学Cursor，掌握AI编程的唯一诀窍：先做出来，发布出来！—【2024-11-03】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—学Cursor，掌握AI编程的唯一诀窍：先做出来，发布出来！—【2024-11-03】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4420,
+      "content_sha256": "90e5f5f06d8a90b1c6c477119b4823d5d7e88dc04c2c56436ea9f19d568a46fb"
+    },
+    {
+      "source_id": "d81f4dd5a713ae5b7aee215af38b33c7",
+      "source_path": "【花叔v】—学了100小时后，我才发学习MCP的最佳方式是这个！—【2025-07-08】-中文.txt",
+      "source_ref": "【花叔v】—学了100小时后，我才发学习MCP的最佳方式是这个！—【2025-07-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—学了100小时后，我才发学习MCP的最佳方式是这个！—【2025-07-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3713,
+      "content_sha256": "57f1cd5323821e358a6134d3f0dc561992b5aa4c7a9d303f985000fe86dd84ed"
+    },
+    {
+      "source_id": "1e4a297bb1cf37ed33dd5cce07ef3e26",
+      "source_path": "【花叔v】—微软官方认证，你的第一个「生成式人工智能证书」来了—【2023-07-04】-中文.txt",
+      "source_ref": "【花叔v】—微软官方认证，你的第一个「生成式人工智能证书」来了—【2023-07-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—微软官方认证，你的第一个「生成式人工智能证书」来了—【2023-07-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1260,
+      "content_sha256": "d88426a64a24331b04928878f8b06941fa514b033d4ce1d20c7d3fbf4166458b"
+    },
+    {
+      "source_id": "06b10d29ad2e7946c73a60e7003b34ea",
+      "source_path": "【花叔v】—惊艳，GPT-4o让AI绘画到达新高度！9大玩法展示！—【2025-03-28】-中文.txt",
+      "source_ref": "【花叔v】—惊艳，GPT-4o让AI绘画到达新高度！9大玩法展示！—【2025-03-28】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—惊艳，GPT-4o让AI绘画到达新高度！9大玩法展示！—【2025-03-28】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1988,
+      "content_sha256": "d85869f09ffd3e15ee8e9c28124f0e2486177dbe939f020a2578f742e6493acb"
+    },
+    {
+      "source_id": "02b0559a8463562745cf0a06970a55c7",
+      "source_path": "【花叔v】—我做的GPT，在300万个GPTs中排名Top360，我是怎么做到的？AI进化论-花生—【2024-01-15】-中文.txt",
+      "source_ref": "【花叔v】—我做的GPT，在300万个GPTs中排名Top360，我是怎么做到的？AI进化论-花生—【2024-01-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我做的GPT，在300万个GPTs中排名Top360，我是怎么做到的？AI进化论-花生—【2024-01-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1828,
+      "content_sha256": "ed4832faa9bf3c3f477dc515d3077ae11ce31eb8c738cb81aa9d110ccd64925a"
+    },
+    {
+      "source_id": "9e6e7efdef15b182782b3c1d9eb36bcb",
+      "source_path": "【花叔v】—我在7万字里藏了一句话，它绕着弯给我读懂了｜Kimi.ai 文章总结、读书_读论文、长文本翻译教学—【2024-01-25】-中文.txt",
+      "source_ref": "【花叔v】—我在7万字里藏了一句话，它绕着弯给我读懂了｜Kimi.ai 文章总结、读书_读论文、长文本翻译教学—【2024-01-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我在7万字里藏了一句话，它绕着弯给我读懂了｜Kimi.ai 文章总结、读书_读论文、长文本翻译教学—【2024-01-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5466,
+      "content_sha256": "57b962737ca62cf1ba7823d6e2a9a8eab0ae22a5724c3c200847a86f0cc6c4a3"
+    },
+    {
+      "source_id": "dd9b4ecee91286e3a6ee57b39284c9cc",
+      "source_path": "【花叔v】—我是如何靠ChatGPT，从年薪百万到月入3000的—【2023-04-16】-中文.txt",
+      "source_ref": "【花叔v】—我是如何靠ChatGPT，从年薪百万到月入3000的—【2023-04-16】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我是如何靠ChatGPT，从年薪百万到月入3000的—【2023-04-16】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4385,
+      "content_sha256": "4a17e9c9034f4023cd8da61906b5ff02915e498b5a68cb39b2ce5f9b627033b8"
+    },
+    {
+      "source_id": "7b882b6673757358e2280d5b3d96138b",
+      "source_path": "【花叔v】—我用AI做了7个网页，没写一行代码—【2025-03-30】-中文.txt",
+      "source_ref": "【花叔v】—我用AI做了7个网页，没写一行代码—【2025-03-30】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我用AI做了7个网页，没写一行代码—【2025-03-30】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3800,
+      "content_sha256": "febcfe920f82c523854c7ce43cfbc0626630945cb04b7e99b0589b0d5160aa76"
+    },
+    {
+      "source_id": "a1dbcfa642a61efdb4c464e43dd528c8",
+      "source_path": "【花叔v】—我用Cursor AI编程开发的App，登上了Appstore排行榜第一｜小猫补光灯Pro—【2024-11-27】-中文.txt",
+      "source_ref": "【花叔v】—我用Cursor AI编程开发的App，登上了Appstore排行榜第一｜小猫补光灯Pro—【2024-11-27】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我用Cursor AI编程开发的App，登上了Appstore排行榜第一｜小猫补光灯Pro—【2024-11-27】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6117,
+      "content_sha256": "4e8313461ebb7e347c7c8c543ade13f5a788d71f34f70c49d01dad89516afffe"
+    },
+    {
+      "source_id": "6bf53e0480dfa94f752c9edd049b430b",
+      "source_path": "【花叔v】—我用Tabbit浏览器造了一个AI分身—【2026-05-08】-中文.txt",
+      "source_ref": "【花叔v】—我用Tabbit浏览器造了一个AI分身—【2026-05-08】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我用Tabbit浏览器造了一个AI分身—【2026-05-08】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4026,
+      "content_sha256": "fab6693edfacfd464ad021651d4da380a4ba17e6068845f326d5126125f1945e"
+    },
+    {
+      "source_id": "b9d9ee268269693e7d9827137808fb8a",
+      "source_path": "【花叔v】—我的「一人公司」有了数据分析部和编辑部，年薪0元—【2026-05-10】-中文.txt",
+      "source_ref": "【花叔v】—我的「一人公司」有了数据分析部和编辑部，年薪0元—【2026-05-10】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我的「一人公司」有了数据分析部和编辑部，年薪0元—【2026-05-10】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3846,
+      "content_sha256": "206493f9aa7e58f45b1602133efc9dcb489320957245004396ccb30db7a3a2f4"
+    },
+    {
+      "source_id": "b7fdb3bf47cbf27af9dbbf7865d63c55",
+      "source_path": "【花叔v】—我蒸馏了17个大佬给我打工（开源免费）—【2026-04-11】-中文.txt",
+      "source_ref": "【花叔v】—我蒸馏了17个大佬给我打工（开源免费）—【2026-04-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我蒸馏了17个大佬给我打工（开源免费）—【2026-04-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5960,
+      "content_sha256": "abdc4052181ce440459b67f0f04b4c9d7a3b2d426bc9f7292d871b3942d3531a"
+    },
+    {
+      "source_id": "727f34a77e515f69a612259b1296fb2d",
+      "source_path": "【花叔v】—我让一个AI，帮我装另一个AI—【2026-05-26】-中文.txt",
+      "source_ref": "【花叔v】—我让一个AI，帮我装另一个AI—【2026-05-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我让一个AI，帮我装另一个AI—【2026-05-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4231,
+      "content_sha256": "79f41b0d0daaa3e474a88aaecf66745e360ba7fda4cf875763b19954c67cf66a"
+    },
+    {
+      "source_id": "54736682221a91e7c0e7f7aa9e9023dc",
+      "source_path": "【花叔v】—我试用了Kiro：这可能是我第一次想抛弃Cursor的一天—【2025-07-18】-中文.txt",
+      "source_ref": "【花叔v】—我试用了Kiro：这可能是我第一次想抛弃Cursor的一天—【2025-07-18】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我试用了Kiro：这可能是我第一次想抛弃Cursor的一天—【2025-07-18】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2326,
+      "content_sha256": "d1b73ba7d75ec27a3625af899ffd2a5b912e004d02e33e1bc3ccc4b00dc8f75d"
+    },
+    {
+      "source_id": "32228f526fd96aec5c81d7641eceaf6a",
+      "source_path": "【花叔v】—我逆向了Claude Design！一句话帮你生成任何出色设计，开源后狂揽GitHub 1.6万+stars！【B站AI创造公开赛】—【2026-06-07】-中文.txt",
+      "source_ref": "【花叔v】—我逆向了Claude Design！一句话帮你生成任何出色设计，开源后狂揽GitHub 1.6万+stars！【B站AI创造公开赛】—【2026-06-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—我逆向了Claude Design！一句话帮你生成任何出色设计，开源后狂揽GitHub 1.6万+stars！【B站AI创造公开赛】—【2026-06-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5302,
+      "content_sha256": "92a1472163f05c70dcc32f8f6e6b7515ba74f156c7c498947098792e63e7845f"
+    },
+    {
+      "source_id": "fc7d587961ead9720440f956a7545114",
+      "source_path": "【花叔v】—挑战用手机写代码！我开发了第二个「小猫补光灯」｜登上了AppStore排行榜—【2025-03-31】-中文.txt",
+      "source_ref": "【花叔v】—挑战用手机写代码！我开发了第二个「小猫补光灯」｜登上了AppStore排行榜—【2025-03-31】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—挑战用手机写代码！我开发了第二个「小猫补光灯」｜登上了AppStore排行榜—【2025-03-31】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2734,
+      "content_sha256": "f6055b3dcd8e3d2c7c127b892989535bd1dc2e374d636a368ca8e1e3d10d8cb3"
+    },
+    {
+      "source_id": "556424226d9fd7751c39180f47a2e573",
+      "source_path": "【花叔v】—接受腾讯访谈：离开大厂一年，我如何成为超级个体？揭秘我的工作与收入！「AI浪潮下的一人公司」—【2024-04-04】-中文.txt",
+      "source_ref": "【花叔v】—接受腾讯访谈：离开大厂一年，我如何成为超级个体？揭秘我的工作与收入！「AI浪潮下的一人公司」—【2024-04-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—接受腾讯访谈：离开大厂一年，我如何成为超级个体？揭秘我的工作与收入！「AI浪潮下的一人公司」—【2024-04-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 13637,
+      "content_sha256": "58622392fa0be5f1d439b7c3b79d6ecc5d75ae20980276719bae37b01d68a302"
+    },
+    {
+      "source_id": "657cf30f904bfa6a17aa2df5bbdd9cd2",
+      "source_path": "【花叔v】—推特爆火：一行提示词让你面试机会翻4倍｜ChatGPT prompt engineering技巧｜prompt hacking｜AI进化论-花生—【2024-05-30】-中文.txt",
+      "source_ref": "【花叔v】—推特爆火：一行提示词让你面试机会翻4倍｜ChatGPT prompt engineering技巧｜prompt hacking｜AI进化论-花生—【2024-05-30】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—推特爆火：一行提示词让你面试机会翻4倍｜ChatGPT prompt engineering技巧｜prompt hacking｜AI进化论-花生—【2024-05-30】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3499,
+      "content_sha256": "cf508dec0155c21a61d6130fbb767c9d778596ae6a7c776d724225c891d93051"
+    },
+    {
+      "source_id": "99c8681116d73136fb05281b8a19e0bc",
+      "source_path": "【花叔v】—放弃ChatGPT吧，Cursor才是最强AI写作神器！—【2024-09-07】-中文.txt",
+      "source_ref": "【花叔v】—放弃ChatGPT吧，Cursor才是最强AI写作神器！—【2024-09-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—放弃ChatGPT吧，Cursor才是最强AI写作神器！—【2024-09-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3647,
+      "content_sha256": "8740d17080b64f93d40baedde6f3126285ead5c3ad35f4cf792c122bfd5fcac4"
+    },
+    {
+      "source_id": "37048b8fce10acbdcc5639d7de4403e0",
+      "source_path": "【花叔v】—新Kiro有多强？30人18个月的项目，6人76天干完｜亚马逊云科技发布三大前沿Agents—【2025-12-04】-中文.txt",
+      "source_ref": "【花叔v】—新Kiro有多强？30人18个月的项目，6人76天干完｜亚马逊云科技发布三大前沿Agents—【2025-12-04】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—新Kiro有多强？30人18个月的项目，6人76天干完｜亚马逊云科技发布三大前沿Agents—【2025-12-04】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3810,
+      "content_sha256": "93306d056a15f26d14e8709e629be3a281e83e8a4ab074051e6d0dc6b6148ef4"
+    },
+    {
+      "source_id": "47e7f8237f5ade922c781d873804421b",
+      "source_path": "【花叔v】—无代码搭建AI应用「丑咪挑战赛」：OpenAI的脑子+DeepSeek的成本的王炸组合—【2025-03-13】-中文.txt",
+      "source_ref": "【花叔v】—无代码搭建AI应用「丑咪挑战赛」：OpenAI的脑子+DeepSeek的成本的王炸组合—【2025-03-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—无代码搭建AI应用「丑咪挑战赛」：OpenAI的脑子+DeepSeek的成本的王炸组合—【2025-03-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1482,
+      "content_sha256": "1f614800202d1162d95466c3bedabf26a3bc600ad158836105aef9d1ec156bd0"
+    },
+    {
+      "source_id": "2475e2407ecf1a1173cb666e6c6ff655",
+      "source_path": "【花叔v】—最新ChatGPT Canvas教程：最佳AI写作✍️神器！—【2024-10-07】-中文.txt",
+      "source_ref": "【花叔v】—最新ChatGPT Canvas教程：最佳AI写作✍️神器！—【2024-10-07】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—最新ChatGPT Canvas教程：最佳AI写作✍️神器！—【2024-10-07】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6209,
+      "content_sha256": "23c846f334f451e918e3a1fa76cf31458bc625be4fc14c30e6578b336de56340"
+    },
+    {
+      "source_id": "7501172d0eb290b0f015e0474d2d512c",
+      "source_path": "【花叔v】—爆肝8小时的终极评测：免费GPT-4o VS 付费GPT-4｜AI进化论-花生—【2024-05-15】-中文.txt",
+      "source_ref": "【花叔v】—爆肝8小时的终极评测：免费GPT-4o VS 付费GPT-4｜AI进化论-花生—【2024-05-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—爆肝8小时的终极评测：免费GPT-4o VS 付费GPT-4｜AI进化论-花生—【2024-05-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 6470,
+      "content_sha256": "893dcfa9cbb2c7dcb0e445cdf25664f825542f1551fbcef4daf7686cbd7dd607"
+    },
+    {
+      "source_id": "d5445141ab3d29d119004d1563a80958",
+      "source_path": "【花叔v】—用上这套Prompt提示词，让ChatGPT聪明10倍！模拟Strawberrycao m模型的内化反思能力。—【2024-09-11】-中文.txt",
+      "source_ref": "【花叔v】—用上这套Prompt提示词，让ChatGPT聪明10倍！模拟Strawberrycao m模型的内化反思能力。—【2024-09-11】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—用上这套Prompt提示词，让ChatGPT聪明10倍！模拟Strawberrycao m模型的内化反思能力。—【2024-09-11】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3645,
+      "content_sha256": "1ff63a838da87a6bf2a4434a883b9ef4fb03805e4de47c5cf79d3879ac7200a2"
+    },
+    {
+      "source_id": "5f174e6db0d8a7fc0d82a65a78e06e4f",
+      "source_path": "【花叔v】—百万奖金的创新赛，我没拿奖却上台演讲了！—【2025-12-14】-中文.txt",
+      "source_ref": "【花叔v】—百万奖金的创新赛，我没拿奖却上台演讲了！—【2025-12-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—百万奖金的创新赛，我没拿奖却上台演讲了！—【2025-12-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1814,
+      "content_sha256": "153fd0a48b2de007794a2a3930a5425667cbf6c14ae6bc0bdc1e9d9a119d4ae1"
+    },
+    {
+      "source_id": "f0348953de2bda59caa0d2d7d76b3108",
+      "source_path": "【花叔v】—突发！ChatGPT发布最强推理模型「GPT-o1」｜完整解读模型特点｜含12个官方双语演示视频｜AI进化论-花生—【2024-09-12】-中文.txt",
+      "source_ref": "【花叔v】—突发！ChatGPT发布最强推理模型「GPT-o1」｜完整解读模型特点｜含12个官方双语演示视频｜AI进化论-花生—【2024-09-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—突发！ChatGPT发布最强推理模型「GPT-o1」｜完整解读模型特点｜含12个官方双语演示视频｜AI进化论-花生—【2024-09-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 8070,
+      "content_sha256": "a374459f0d149a52fb2944a17a002a4f514bc2427c6fc681ca72ebf373fd0f76"
+    },
+    {
+      "source_id": "dadabd6146330f286a9825f4e317f98b",
+      "source_path": "【花叔v】—突发！DeepSeek R1重磅更新，五大场景实测！—【2025-05-28】-中文.txt",
+      "source_ref": "【花叔v】—突发！DeepSeek R1重磅更新，五大场景实测！—【2025-05-28】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—突发！DeepSeek R1重磅更新，五大场景实测！—【2025-05-28】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3433,
+      "content_sha256": "c19212726a40ddcf06e1c9cebaf2f98608c70b6f013106e0dacbbb1df70724e1"
+    },
+    {
+      "source_id": "f26b6876ace468a5d5436501e2fe1bcd",
+      "source_path": "【花叔v】—突发：微信接入DeepSeek R1—【2025-02-15】-中文.txt",
+      "source_ref": "【花叔v】—突发：微信接入DeepSeek R1—【2025-02-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—突发：微信接入DeepSeek R1—【2025-02-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 901,
+      "content_sha256": "f2a9dd675211f482f24436df00e06603918138ab5a96bdda40426e9437bcaabf"
+    },
+    {
+      "source_id": "8ca3c5d6cba30fd7801ba902aa20eb0d",
+      "source_path": "【花叔v】—腾讯×DeepSeek_ 6个让你提前下班的AI使用秘籍—【2025-02-20】-中文.txt",
+      "source_ref": "【花叔v】—腾讯×DeepSeek_ 6个让你提前下班的AI使用秘籍—【2025-02-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—腾讯×DeepSeek_ 6个让你提前下班的AI使用秘籍—【2025-02-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3522,
+      "content_sha256": "c969c7d5e994a59c7ec05e1b8a4375d7667b23a097e4f87d18c895bc145d9733"
+    },
+    {
+      "source_id": "359c065b4f21697a7f07a3bdf8d0e7d5",
+      "source_path": "【花叔v】—谷歌Gemini Pro免费API开放，全新视频理解能力上线—【2023-12-14】-中文.txt",
+      "source_ref": "【花叔v】—谷歌Gemini Pro免费API开放，全新视频理解能力上线—【2023-12-14】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—谷歌Gemini Pro免费API开放，全新视频理解能力上线—【2023-12-14】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3151,
+      "content_sha256": "26229089232b8a6bda30ac6c2fb124a926ef960109f798be26a782cbd9810f47"
+    },
+    {
+      "source_id": "37374d4207eb6a32c63984588ae47417",
+      "source_path": "【花叔v】—谷歌Gemini Pro白嫖指南，无需🪜国内直连—【2023-12-21】-中文.txt",
+      "source_ref": "【花叔v】—谷歌Gemini Pro白嫖指南，无需🪜国内直连—【2023-12-21】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—谷歌Gemini Pro白嫖指南，无需🪜国内直连—【2023-12-21】-中文.txt",
+      "suffix": ".txt",
+      "chars": 1935,
+      "content_sha256": "b1013c5e77e752333c9897216c515c94c3332af5eb3e95305be10ac5d2701523"
+    },
+    {
+      "source_id": "7a95b80a234227e9ee12586bf60707cb",
+      "source_path": "【花叔v】—谷歌Gemini造假风波完整盘点：演示视频造假？测评放水？Bard垃圾？｜AI进化论-花生—【2023-12-10】-中文.txt",
+      "source_ref": "【花叔v】—谷歌Gemini造假风波完整盘点：演示视频造假？测评放水？Bard垃圾？｜AI进化论-花生—【2023-12-10】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—谷歌Gemini造假风波完整盘点：演示视频造假？测评放水？Bard垃圾？｜AI进化论-花生—【2023-12-10】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3803,
+      "content_sha256": "dc694df38795e062d75be8c7754404a353f478fe23ab336a61a29b252cdb121a"
+    },
+    {
+      "source_id": "e98afca1ca59278a67f82a844f21da27",
+      "source_path": "【花叔v】—谷歌新的AI模型Gemini比GPT-4更强？这是你目前能看到的解释最充分的视频了。—【2023-12-06】-中文.txt",
+      "source_ref": "【花叔v】—谷歌新的AI模型Gemini比GPT-4更强？这是你目前能看到的解释最充分的视频了。—【2023-12-06】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—谷歌新的AI模型Gemini比GPT-4更强？这是你目前能看到的解释最充分的视频了。—【2023-12-06】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7216,
+      "content_sha256": "b350c7b0305614fb204f895548934f739baefc1d23300c78d68b4a382e03b8f6"
+    },
+    {
+      "source_id": "4d4c91b0274afdbd1a437c1c33b59649",
+      "source_path": "【花叔v】—谷歌最新模型Gemma4发布！深度解析+送42页资料—【2026-04-02】-中文.txt",
+      "source_ref": "【花叔v】—谷歌最新模型Gemma4发布！深度解析+送42页资料—【2026-04-02】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—谷歌最新模型Gemma4发布！深度解析+送42页资料—【2026-04-02】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4615,
+      "content_sha256": "f554087f656dbf9f4a1f93158d6eff2fea993796811747e6c3ad5fc6469b4ba1"
+    },
+    {
+      "source_id": "9801c15a3e0e037e8ca7cd27db89bd9a",
+      "source_path": "【花叔v】—逼自己一把！11分钟学会7大AI视频生成技巧｜Vidu教程—【2025-06-20】-中文.txt",
+      "source_ref": "【花叔v】—逼自己一把！11分钟学会7大AI视频生成技巧｜Vidu教程—【2025-06-20】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—逼自己一把！11分钟学会7大AI视频生成技巧｜Vidu教程—【2025-06-20】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3239,
+      "content_sha256": "20c738ea7a9ea1810ee5bda238be340f8d3a39d357193df8fb42fb81398f33b8"
+    },
+    {
+      "source_id": "ba7d4a07ea180ae7689198f19451d802",
+      "source_path": "【花叔v】—重磅更新！ChatGPT实时语音上线！实操演示让ChatGPT讲方言、讲笑话、讲故事、实时翻译。—【2024-09-25】-中文.txt",
+      "source_ref": "【花叔v】—重磅更新！ChatGPT实时语音上线！实操演示让ChatGPT讲方言、讲笑话、讲故事、实时翻译。—【2024-09-25】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—重磅更新！ChatGPT实时语音上线！实操演示让ChatGPT讲方言、讲笑话、讲故事、实时翻译。—【2024-09-25】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2642,
+      "content_sha256": "8c646a7a61942f2d572cc0de19f4fedecb1d4e4373c35495ddbd75c44432b48f"
+    },
+    {
+      "source_id": "bf887040bfa478827af4c262b405a170",
+      "source_path": "【花叔v】—重磅！Claude 4深度评测&解析：最强编程模型，AI Agent基建刷新！—【2025-05-22】-中文.txt",
+      "source_ref": "【花叔v】—重磅！Claude 4深度评测&解析：最强编程模型，AI Agent基建刷新！—【2025-05-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—重磅！Claude 4深度评测&解析：最强编程模型，AI Agent基建刷新！—【2025-05-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 4648,
+      "content_sha256": "a0772a89ea9be553c5edcb3e31cb1817286010342d890159589d6d37e48f0f69"
+    },
+    {
+      "source_id": "99afc45e265b2989e7105cb92f64d8a2",
+      "source_path": "【花叔v】—重磅！！OpenAI发布文字生成视频模型Sora，一次生成60秒视频，人人都是导演的时代来了—【2024-02-15】-中文.txt",
+      "source_ref": "【花叔v】—重磅！！OpenAI发布文字生成视频模型Sora，一次生成60秒视频，人人都是导演的时代来了—【2024-02-15】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—重磅！！OpenAI发布文字生成视频模型Sora，一次生成60秒视频，人人都是导演的时代来了—【2024-02-15】-中文.txt",
+      "suffix": ".txt",
+      "chars": 611,
+      "content_sha256": "55579b71f64df743c51ea7a8cf34d1bc5c39826f893e13340b833876d0888abe"
+    },
+    {
+      "source_id": "4dab05e7a8c8210d3b8e51db51499ea0",
+      "source_path": "【花叔v】—零基础也能用AI编程!豆包电脑版让你3分钟做出实用工具—【2025-03-22】-中文.txt",
+      "source_ref": "【花叔v】—零基础也能用AI编程!豆包电脑版让你3分钟做出实用工具—【2025-03-22】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—零基础也能用AI编程!豆包电脑版让你3分钟做出实用工具—【2025-03-22】-中文.txt",
+      "suffix": ".txt",
+      "chars": 3484,
+      "content_sha256": "d36d71847c6bdb0c972922a5b1c52f890dee339d615dd49575a67c7f744d812f"
+    },
+    {
+      "source_id": "08199518b1cc17f15eddde518af8b846",
+      "source_path": "【花叔v】—🦞OpenClaw从入门到精通：9个使用技巧，让龙虾真正帮你干活—【2026-03-29】-中文.txt",
+      "source_ref": "【花叔v】—🦞OpenClaw从入门到精通：9个使用技巧，让龙虾真正帮你干活—【2026-03-29】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—🦞OpenClaw从入门到精通：9个使用技巧，让龙虾真正帮你干活—【2026-03-29】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7238,
+      "content_sha256": "df28a2544f022e7851ddeb1f7cd3d0affdac952a1c213582bc19d3719a8aa7e1"
+    },
+    {
+      "source_id": "1a52fe4bba485844babbd6d18fb60f8c",
+      "source_path": "【花叔v】—🦞OpenClaw养虾指南02｜用扣子5分钟部署你的第一只会上大学、持续进化的龙虾—【2026-03-12】-中文.txt",
+      "source_ref": "【花叔v】—🦞OpenClaw养虾指南02｜用扣子5分钟部署你的第一只会上大学、持续进化的龙虾—【2026-03-12】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—🦞OpenClaw养虾指南02｜用扣子5分钟部署你的第一只会上大学、持续进化的龙虾—【2026-03-12】-中文.txt",
+      "suffix": ".txt",
+      "chars": 7062,
+      "content_sha256": "0d96b1f60d9a19764933eb81a96f71626dc0e4ba2203c6266ab09e50274a6816"
+    },
+    {
+      "source_id": "1724fa1a010195725936872481ef783f",
+      "source_path": "【花叔v】—🦞OpenClaw养虾指南：从入门到精通（赠98页pdf资料）—【2026-03-09】-中文.txt",
+      "source_ref": "【花叔v】—🦞OpenClaw养虾指南：从入门到精通（赠98页pdf资料）—【2026-03-09】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—🦞OpenClaw养虾指南：从入门到精通（赠98页pdf资料）—【2026-03-09】-中文.txt",
+      "suffix": ".txt",
+      "chars": 11834,
+      "content_sha256": "a98406d5db3d2ca894d216b5f426db8f01e0677680364afa829dbbc35ae4aec7"
+    },
+    {
+      "source_id": "b0f9fba41204ea1137dbbbeeef04e75a",
+      "source_path": "【花叔v】—🦞你敢让龙虾碰你的电脑吗？香港学生的回答让我意外—【2026-03-26】-中文.txt",
+      "source_ref": "【花叔v】—🦞你敢让龙虾碰你的电脑吗？香港学生的回答让我意外—【2026-03-26】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—🦞你敢让龙虾碰你的电脑吗？香港学生的回答让我意外—【2026-03-26】-中文.txt",
+      "suffix": ".txt",
+      "chars": 2269,
+      "content_sha256": "0449698f46118d9fa25d07deeb1733f65c08302847d8ab6bbbd4e476cbbea9b0"
+    },
+    {
+      "source_id": "2641360337716e7c588417fafe79c13e",
+      "source_path": "【花叔v】—🦞美股收益629%，智谱的匿名龙虾模型写出了投行级分析—【2026-03-13】-中文.txt",
+      "source_ref": "【花叔v】—🦞美股收益629%，智谱的匿名龙虾模型写出了投行级分析—【2026-03-13】-中文.txt",
+      "absolute_path": "D:\\视频下载\\花叔v\\SubBatch_2026-07-08-20-26-50_TXT\\【花叔v】—🦞美股收益629%，智谱的匿名龙虾模型写出了投行级分析—【2026-03-13】-中文.txt",
+      "suffix": ".txt",
+      "chars": 5651,
+      "content_sha256": "d903929b0aa7ca1827f3a39813f1bb7ef676d43c5ce7d459a364d6dbf6b39d74"
+    }
+  ]
+}
